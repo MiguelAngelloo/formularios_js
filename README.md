@@ -4,4 +4,6 @@
 
 ## 2.Capturar un Numero y imprimir el dia de la semana a que corresponde.
 
-## capturar un numero y todos los numeros pares que existen entre 1 y un numero par
+## 3.Capturar un numero y todos los numeros pares que existen entre 1 y un numero digitado en una caja de texto
+
+## 4.Capturar un numero e imprimit toos los numeros impares que existen entre el uno y el numero digitado en una caja de texto
